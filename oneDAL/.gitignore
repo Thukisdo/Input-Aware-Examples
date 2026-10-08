@@ -1,0 +1,12 @@
+
+runs/
+results/
+__pycache__
+venv/
+
+*.pdf
+*.png
+*.csv
+
+.vscode
+.idea

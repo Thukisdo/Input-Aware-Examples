@@ -1,0 +1,11 @@
+
+
+build
+runs
+results
+*.log
+*.pdf
+*.png
+
+venv
+__pycache__
